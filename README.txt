@@ -12,7 +12,7 @@ To play the game
 
    Enter input filepath : path/to/file   
 
-   The tournament boards are in the same directory.
+   The tournament boards are in the "boards" directory.
    The name of the files are the just the number. (Eg. 1 , 2 , 3 ,.... , 15)
 5. After giving the input file path, you will be shown the intial board of the 
    game and you will be asked whether you want to play it manually or want the program to solve it for you.
