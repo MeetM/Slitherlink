@@ -1,3 +1,5 @@
+Slitherlink - online example http://www.puzzle-loop.com/
+
 The game is written in clisp. Has been tested on Ubuntu and Windows Clisp.
 
 To play the game
