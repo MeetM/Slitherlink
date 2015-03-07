@@ -25,9 +25,9 @@ To play the game
 ###Moves  
    To draw a line around a cell, its position in the board (x,y co-ordinates)
    followed by the direction where you want to draw it (T -> Top, D ->  Down, R -> Right, L -> Left)   
-   Example: For line on top of cell 2,2; type -> 2 2 T  
+   Example: For line on top of cell 2,2; type `2 2 T`  
    For removing a line, type the same move again.  
-   To Quit, type -> Q  
+   To Quit, type `Q`    
 
 7. After each move, the program will display the current board structure and status whether or not you have solved the puzzle.  
 
