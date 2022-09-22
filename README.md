@@ -1,4 +1,4 @@
-#Slitherlink - game and solver
+# Slitherlink - game and solver
 
 The game is written in clisp. Has been tested on Ubuntu and Windows Clisp.
 
@@ -22,7 +22,7 @@ To play the game
 5. It will take some time to solve the board depending on the size. While it is solving, it will show a PLEASE WAIT message. When solved, it will show the solved board and the time it took to solve it. Jump to step 9.  
 
 6. At the prompt, you will be asked to specify your move.  
-###Moves  
+### Moves  
    To draw a line around a cell, its position in the board (x,y co-ordinates)
    followed by the direction where you want to draw it (T -> Top, D ->  Down, R -> Right, L -> Left)   
    Example: For line on top of cell 2,2; type `2 2 T`  
@@ -35,9 +35,9 @@ To play the game
 
 9. If you want to play again. Repeat from step 3.
 
-####Note for the input file format
+#### Note for the input file format
 
-The input board file (if you wish to try your own boards,) should be specified in the following format
+The input board file - (If you wish to try your own boards, should be specified in the following format)
 
     + + + +
      3 2 3
